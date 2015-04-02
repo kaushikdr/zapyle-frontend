@@ -1,0 +1,20 @@
+var something = [
+  {"title" :  "IEEE Standard for Local and Metropolitan Area Networks: Overview and Architecture",
+   "authors" :  "IEEE",
+   "pub" :  "IEEE 802-2001 standard",
+   "datepub" :  "2001",
+   "keywords" :  "MAC",
+   "dateread" :  "200309",
+   "physloc" :  "box i",
+   "comment" :  "Indicates how you can manage addresses assigned to you by IEEE."
+  },
+  {"title" :  "A framework for delivering multicast messages in networks with mobile hosts",
+   "authors" :  "A. Acharya, B. R. Badrinath",
+   "pub" :  "Mobile Networks and Applications v1 pp 199-219",
+   "datepub" :  "1996",
+   "keywords" :  "multicast mobile MH MSS",
+   "dateread" :  "",
+   "physloc" :  "box a",
+   "comment" :  ""
+  }
+  ]

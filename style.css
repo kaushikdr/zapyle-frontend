@@ -1,0 +1,95 @@
+
+
+li {
+		list-style-type: none;
+
+}
+
+#category {
+	
+}
+
+#category li {
+	padding-bottom: 5px !important;	
+	margin-left: -2;
+}
+.xy{
+	border-left: 3px solid #2bde73;
+	margin-left: -1;
+	
+}
+
+.xy a {
+	margin-left: 17px !important;
+	text-decoration: underline;
+	color: #2bde73 !important;
+}
+
+
+#category li a {
+	color: black;
+	margin-left: 20px;
+}
+
+.head {
+	padding-bottom: 40px;
+}
+
+.headall {
+	padding-top: 20px;
+
+}
+
+.image {
+	padding-right: 0px !important;
+	width: 350px !important;
+}
+
+img {
+	height: 240px;
+	width: 320px;
+}
+
+
+h4 {
+	margin-top: 0px !important;
+	margin-bottom: 5px !important;
+}
+
+.list-inline li {
+	margin-right: 20px !important; 
+}
+
+.stats .list-inline li {
+	margin-right: 15px !important; 
+}
+.content h4 a:hover, .content-footer .list-inline li a span:hover, .content-footer .list-inline li a:hover, .headall h6:hover, .headall a:hover{
+	text-decoration: none !important;
+	color: #0E0741 !important;
+	
+}
+
+#category li a:hover{
+	color: #2bde73 !important;
+}
+
+.description {
+	height: 80px;
+}
+
+.progress {
+	height:8px !important;
+	width: 420px;
+	background-color: #d9d9de !important;
+	margin-bottom: 10px !important;
+}
+
+h6, h5 , dd, span {
+	color: #828587 !important;
+}
+
+h4 a, .stats .list-inline li dl dt h4 {
+	font-weight: 900;
+	color: #0f2105 !important;
+}
+
