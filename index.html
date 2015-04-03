@@ -31,13 +31,17 @@ $(document).ready(function() {
     	$('#category li').removeClass('xy');
     	$(this).addClass('xy');
 
+    	if(parseInt($('.full:visible').attr('id')) < ($(this).index())){
+    		$('.full:visible').hide()
+	    	$('#'+($(this).index())).show().animate({top: '-10px'},"fast");
+    	}
+    	else{
+		    $('.full:visible').hide()
+		    $('#'+($(this).index())).show().animate({top: '10px'},"fast");    		
+    	}
     	
-	    $('.full:visible').hide();
-	    $('#'+($(this).index())).slideDown("fast");    		
     	
-    	
-    	
-    })
+    });
     
 
 });
