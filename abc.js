@@ -1,6 +1,6 @@
 var something = [
   {"category" :  "Art",
-   "titles" :  "Marked: an exhibition celebrating a year of daily creativity",
+   "titles" :  "Marked: an exhibition celebrating a daily creativity",
    "author" :  "Nicole Law",
    "descriptions" :  "After a year of bringing you #makemarksdaily on Instagram, I need your help to escape the virtual and show you my work IN REAL LIFE!",
    "keywords" :  "Mixed Media",   
@@ -8,8 +8,7 @@ var something = [
    "funded" :  "88",
    "pledged" :  "1331",
    "backers" : "17",
-   "days_left" : "31",
-   "defaults" : 'none'
+   "days_left" : "31"
   },
   {"category" :  "Comics",
    "titles" :  "PLUME VOLUME 2 HARDCOVER COLLECTION",
@@ -20,8 +19,7 @@ var something = [
    "funded" :  "311",
    "pledged" :  "23,360",
    "backers" : "457",
-   "days_left" : "46",
-   "defaults" : 'none'
+   "days_left" : "46"   
   },
   {"category" :  "Crafts",
    "titles" :  "Soaps for SCIENCE!",
@@ -32,8 +30,7 @@ var something = [
    "funded" :  "306",
    "pledged" :  "4,593",
    "backers" : "170",
-   "days_left" : "3",
-   "defaults" : 'none'
+   "days_left" : "3"   
   },
   {"category" :  "Dance",
    "titles" :  "[re]CLAIM",
@@ -44,8 +41,7 @@ var something = [
    "funded" :  "59",
    "pledged" :  "1,799",
    "backers" : "35",
-   "days_left" : "15",
-   "defaults" : 'none'
+   "days_left" : "15"   
   },
   {"category" :  "Design",
    "titles" :  "Graphic Means: A History of Graphic Design Production",
@@ -56,8 +52,7 @@ var something = [
    "funded" :  "92",
    "pledged" :  "22,799",
    "backers" : "485",
-   "days_left" : "50",
-   "defaults" : 'none'
+   "days_left" : "50"   
   },
   {"category" :  "Fashion",
    "titles" :  "buddingSTEM",
@@ -68,8 +63,7 @@ var something = [
    "funded" :  "108",
    "pledged" :  "50,799",
    "backers" : "990",
-   "days_left" : "11",
-   "defaults" : 'none'
+   "days_left" : "11"   
   },
   {"category" :  "Film & Video",
    "titles" :  "Not It - Season 2!",
@@ -80,8 +74,7 @@ var something = [
    "funded" :  "80",
    "pledged" :  "7,799",
    "backers" : "40",
-   "days_left" : "4",
-   "defaults" : 'show'
+   "days_left" : "4"
   },
   {"category" :  "Food",
    "titles" :  "Tomo Cold Brew Bike",
@@ -92,8 +85,7 @@ var something = [
    "funded" :  "45",
    "pledged" :  "2,599",
    "backers" : "16",
-   "days_left" : "9",
-   "defaults" : 'none'
+   "days_left" : "9"
   },
   {"category" :  "Games",
    "titles" :  "Lord of the Fries",
@@ -104,8 +96,7 @@ var something = [
    "funded" :  "223",
    "pledged" :  "78,599",
    "backers" : "1035",
-   "days_left" : "2",
-   "defaults" : 'none'
+   "days_left" : "2" 
   },
   {"category" :  "Journalism",
    "titles" :  "Broke Magazine",
@@ -116,8 +107,7 @@ var something = [
    "funded" :  "102",
    "pledged" :  "45,599",
    "backers" : "535",
-   "days_left" : "62",
-   "defaults" : 'none'
+   "days_left" : "62"
   },
   {"category" :  "Music",
    "titles" :  "PAOLA DUARTE 'Vuelvo a Nacer' / 'Reborn'",
@@ -128,8 +118,7 @@ var something = [
    "funded" :  "80",
    "pledged" :  "17,249",
    "backers" : "56",
-   "days_left" : "23",
-   "defaults" : 'none'
+   "days_left" : "23"
   },
   {"category" :  "Photography",
    "titles" :  "Alpamayo to Yerupaja",
@@ -140,8 +129,7 @@ var something = [
    "funded" :  "13",
    "pledged" :  "1,249",
    "backers" : "13",
-   "days_left" : "5",
-   "defaults" : 'none'
+   "days_left" : "5"
   },
   {"category" :  "Publishing",
    "titles" :  "BubbleSort: Computer Science Zines",
@@ -152,20 +140,18 @@ var something = [
    "funded" :  "242",
    "pledged" :  "56,249",
    "backers" : "698",
-   "days_left" : "3",
-   "defaults" : 'none'
+   "days_left" : "3"   
   },
   {"category" :  "Technology",
-   "titles" :  "BoXZY Rapid-Change FabLab: Mill, Laser Engraver, 3D Printer",
+   "titles" :  "BoXZY Rapid-Change FabLab: Mill, Laser Engraver",
    "author" :  "Justin and Joel Johnson",
-   "descriptions" :  "sadsadsbahhsa jsadv jasd sadsa sajdsja, sed do labore.",
+   "descriptions" :  "sads jsadv jasd sadsa sajdsja, sed do labore.",
    "keywords" :  "sadsajj",   
    "locations" :  "mmnnsaj, PA",
    "funded" :  "862",
    "pledged" :  "432,249",
    "backers" : "356",
-   "days_left" : "6",
-   "defaults" : 'none'
+   "days_left" : "6"   
   },
   {"category" :  "Theater",
    "titles" :  "THE FLOATONES 2015 AT LA MAMA",
@@ -176,7 +162,6 @@ var something = [
    "funded" :  "45",
    "pledged" :  "26,249",
    "backers" : "123",
-   "days_left" : "7",
-   "defaults" : 'none'
+   "days_left" : "7"   
   }
 ]

@@ -5,8 +5,9 @@ li {
 
 }
 
-#category {
-	
+.category {
+	position: absolute;
+	right: 0px;	
 }
 
 #category li {
@@ -95,8 +96,20 @@ h4 a, .stats .list-inline li dl dt h4 {
 
 
 
-.full, .content {
+.full{
+	/*margin-left: -15px !important;*/
+	height: 358px;
+	width: 854px;
 	position: relative !important;
-
+	/*border: 1px dashed red;*/
 }
 
+
+
+#wrapper {
+	height: 358px !important;
+	width: 854px !important;
+	position: absolute;
+	overflow: hidden;
+	/*border: 1px solid black;*/
+}
